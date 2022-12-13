@@ -1,5 +1,5 @@
 <?php
-// created: 2022-12-13 07:15:48
+// created: 2022-12-13 07:29:55
 $dashletsFiles = array (
   'MyAccountsDashlet' => 
   array (
@@ -255,6 +255,13 @@ $dashletsFiles = array (
     'class' => 'SugarNewsDashlet',
     'meta' => 'modules/Home/Dashlets/SugarNewsDashlet/SugarNewsDashlet.meta.php',
     'module' => 'Home',
+  ),
+  'ht_ht_TestingDashlet' => 
+  array (
+    'file' => 'modules/ht_ht_Testing/Dashlets/ht_ht_TestingDashlet/ht_ht_TestingDashlet.php',
+    'class' => 'ht_ht_TestingDashlet',
+    'meta' => 'modules/ht_ht_Testing/Dashlets/ht_ht_TestingDashlet/ht_ht_TestingDashlet.meta.php',
+    'module' => 'ht_ht_Testing',
   ),
   'jjwg_AreasDashlet' => 
   array (

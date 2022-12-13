@@ -16,6 +16,6 @@ if (!\class_exists(App_KernelProdContainer::class, false)) {
 
 return new \ContainerDsqe8Mo\App_KernelProdContainer([
     'container.build_hash' => 'Dsqe8Mo',
-    'container.build_id' => 'f38ff660',
-    'container.build_time' => 1670915308,
+    'container.build_id' => '8a5f3359',
+    'container.build_time' => 1670916532,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerDsqe8Mo');
